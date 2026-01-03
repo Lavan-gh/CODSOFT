@@ -8,3 +8,6 @@ const learnBtn = document.getElementById("learn-more");
 learnBtn.addEventListener("click", () => {
   document.getElementById("features").scrollIntoView({ behavior: 'smooth' });
 });
+
+
+
