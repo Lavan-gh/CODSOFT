@@ -1,4 +1,4 @@
-// Scroll-to-top button
+
 const scrollBtn = document.getElementById("scroll-top");
 scrollBtn.addEventListener("click", () => {
   window.scrollTo({ top: 0, behavior: 'smooth' });
