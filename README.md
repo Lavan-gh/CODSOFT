@@ -2,10 +2,5 @@
 
 
 
-This repository contains my intenrship tasks for AugustBatch B48
-
-
-  sdscfgvbnmngbfvdcsa
-
-
+This repository contains my intenrship tasks for AugustBatch
 
