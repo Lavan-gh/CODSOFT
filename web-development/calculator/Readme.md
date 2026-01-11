@@ -11,10 +11,7 @@ This is my *Calculator project* for CodSoft Internship (Batch B48, Aug 2025).
 2. Open index.html in a browser.
 
 
-
-\\  
-
-bbnm,,,,,,,,,,,,,,,,,,,,,,,,nnnnnnnnnnnnb     
+ 
 
 
 
