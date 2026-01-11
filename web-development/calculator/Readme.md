@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 # Calculator - Level 1 Task 3
 This is my *Calculator project* for CodSoft Internship (Batch B48, Aug 2025).
 ## Features
