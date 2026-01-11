@@ -13,6 +13,12 @@ This is my *Calculator project* for CodSoft Internship (Batch B48, Aug 2025).
 
 
 
+
+
+
+  
+
+
 ## How to run
 1. Clone the repository.
 2. Open index.html in a browser.
