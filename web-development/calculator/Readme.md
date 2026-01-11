@@ -10,6 +10,9 @@ This is my *Calculator project* for CodSoft Internship (Batch B48, Aug 2025).
 - Keyboard support (0-9, +, -, *, /, Enter, Backspace, C)
 - Smooth animations for button clicks
 
+
+
+
 ## How to run
 1. Clone the repository.
 2. Open index.html in a browser.
