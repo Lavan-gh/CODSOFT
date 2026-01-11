@@ -14,6 +14,35 @@ This is my *Calculator project* for CodSoft Internship (Batch B48, Aug 2025).
 1. Clone the repository.
 2. Open index.html in a browser.
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 © 2025 Lavan Reddy
