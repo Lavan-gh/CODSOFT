@@ -1,11 +1,8 @@
 # TERE
 
-
 # CODSOFT4
 
-
 # DREk BULL
-
 
 # DERRY IT WELCOME TO DERRY
 
